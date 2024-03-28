@@ -1,0 +1,46 @@
+body{
+    background-image:url(https://pro.sony/s3/2017/04/08152045/side-image_1.jpg);
+text-align:center;
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-size:cover;
+}
+
+
+table{
+    border-radius:12px;
+   
+}
+
+
+
+
+table,
+th,
+td {
+    border-collapse: collapse;
+    
+}
+
+th,
+td {
+    padding: 4px;
+}
+img{
+    width:30%;
+    height:40%;
+}
+th,
+td {
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+  
+}
+
+table,
+th,
+td {
+    background-color: rgba(253, 247, 196, 0.774);
+
+}
